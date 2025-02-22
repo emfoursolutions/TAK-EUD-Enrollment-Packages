@@ -8,6 +8,7 @@ This repository contains **Mission Packages** for **ATAK** (Android Team Awarene
 - **Preconfigured Server Settings**: Ensures correct server address, ports, and authentication settings.
 - **Support for TLS Certificates**: Includes necessary CA certificates for secure communication.
 - **Compatible with ATAK and WinTAK**: Works across multiple TAK platforms.
+- **Map Streaming Sources**: Includes basic streaming services for various mapping providers
 
 ## Installation
 
