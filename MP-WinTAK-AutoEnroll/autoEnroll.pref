@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<preferences>
+  <preference version="1" name="cot_streams">
+    <entry key="count" class="class java.lang.Integer">1</entry>
+    <entry key="description0" class="class java.lang.String">TAK Server</entry>
+    <entry key="enabled0" class="class java.lang.Boolean">true</entry>
+    <entry key="connectString0" class="class java.lang.String">tak.takserver.com:8090:ssl</entry>
+    <entry key="caLocation0" class="class java.lang.String">cert/truststore_msca.p12</entry>
+    <entry key="caPassword0" class="class java.lang.String">atakatak</entry>
+    <entry key="enrollForCertificateWithTrust0" class="class java.lang.Boolean">true</entry>
+    <entry key="useAuth0" class="class java.lang.Boolean">true</entry>
+    <entry key="cacheCreds0" class="class java.lang.String">Cache credentials</entry>
+  </preference>
+  <preference version="1" name="com.atakmap.app_preferences">
+    <entry key="coord_display_pref" class="class java.lang.String">MGRS</entry>
+    <entry key="alt_display_pref" class="class java.lang.String">MSL</entry>
+    <entry key="alt_unit_pref" class="class java.lang.String">1</entry>
+    <entry key="speed_unit_pref" class="class java.lang.String">1</entry>
+    <entry key="rab_dist_slant_range" class="class java.lang.String">slantrange</entry>
+    <entry key="rab_brg_units_pref" class="class java.lang.String">1</entry>
+    <entry key="rab_rng_units_pref" class="class java.lang.String">1</entry>
+    <entry key="alt_display_agl" class="class java.lang.Boolean">True</entry>    
+    <entry key="deviceProfileEnableOnConnect" class="class java.lang.Boolean">true</entry>
+    <entry key="enableNonStreamingConnections" class="class java.lang.Boolean">false</entry>
+    <entry key="displayServerConnectionWidget" class="class java.lang.Boolean">true</entry>
+    <entry key="locationCallsign" class="class java.lang.String">Plexus</entry>
+	  <entry key="locationTeam" class="class java.lang.String">Blue</entry>
+	  <entry key="atakRoleType" class="class java.lang.String">Team Member</entry>
+    <entry key="atakControlOtherUserNotification" class="class java.lang.Boolean">false</entry>
+    <entry key="atakPluginScanningOnStartup" class="class java.lang.Boolean">true</entry>
+  </preference>
+</preferences>

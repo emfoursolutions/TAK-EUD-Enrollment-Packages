@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+            <name>Google Earth</name>
+            <minZoom>0</minZoom>
+            <maxZoom>19</maxZoom>
+            <tileType>PNG</tileType>
+            <tileUpdate>None</tileUpdate>
+<url>http://mt1.google.com/vt/lyrs=y&#38;x={$x}&#38;y={$y}&#38;z={$z}&#38;s=Galileo</url>
+</customMapSource>

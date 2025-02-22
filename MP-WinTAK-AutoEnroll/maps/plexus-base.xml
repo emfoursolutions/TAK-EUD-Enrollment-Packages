@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<customMapSource> 
+<name>Plexus Base Map</name> 
+<minZoom>0</minZoom> 
+<maxZoom>18</maxZoom> 
+<tileType>PNG</tileType> 
+<tileUpdate>None</tileUpdate> 
+<url>https://api.mapbox.com/styles/v1/plexus-isr/clvlqp66k018i01q158fa5d1k/tiles/512/{$z}/{$x}/{$y}?access_token=pk.eyJ1IjoicGxleHVzLWlzciIsImEiOiJjbHZhZmk1ZWYwMHpyMmpteW9uazVrdXkzIn0.TMCKTQVTedYBj8Nf0WJ4iw</url> 
+</customMapSource>
