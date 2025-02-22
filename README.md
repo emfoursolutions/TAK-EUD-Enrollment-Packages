@@ -28,12 +28,6 @@ This repository contains **Mission Packages** for **ATAK** (Android Team Awarene
 2. Open **WinTAK** and go to `Settings` → `Import Mission Package`.
 3. Select the downloaded package and apply the settings.
 
-## Configuration
-These Mission Packages include:
-- **TAK Server Address**: `tak.example.com`
-- **TLS Port**: `8089`
-- **CA Certificates**: Ensures secure communication with the TAK Server
-
 ## Troubleshooting
 - **Certificate Errors**: Ensure the CA certificate is correctly installed on your device.
 - **Connection Issues**: Verify network settings and ensure the TAK Server is reachable.
