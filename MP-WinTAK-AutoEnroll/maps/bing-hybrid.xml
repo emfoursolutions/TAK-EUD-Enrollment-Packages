@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<customMapSource> 
+<name>Bing Hybrid</name> 
+<minZoom>0</minZoom> 
+<maxZoom>19</maxZoom> 
+<tileType>PNG</tileType> 
+<tileUpdate>None</tileUpdate> 
+<url><![CDATA[http://ak.dynamic.t{$serverpart}.tiles.virtualearth.net/comp/ch/{$q}?mkt=de-de&it=A,G,L,LA]]></url> 
+<serverParts>0 1 2 3</serverParts> 
+</customMapSource>
+

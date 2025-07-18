@@ -1,0 +1,16 @@
+<MissionPackageManifest version="2">
+  <Configuration>
+    <Parameter name="uid" value="9942e981-cf4c-40d3-aabd-2626a288d4a4"/>
+    <Parameter name="name" value="MP-WinTAK-AutoEnroll.zip"/>
+    <Parameter name="onReceiveDelete" value="true"/>
+  </Configuration>
+    <Content ignore="false" zipEntry="maps/bing-hybrid.xml"/>
+    <Content ignore="false" zipEntry="maps/bing-maps.xml"/>
+    <Content ignore="false" zipEntry="maps/google-hybrid.xml"/>
+    <Content ignore="false" zipEntry="maps/google-maps.xml"/>
+    <Content ignore="false" zipEntry="maps/google-terrain.xml"/>
+    <Content ignore="false" zipEntry="maps/plexus-base.xml"/>
+    <Content ignore="false" zipEntry="certs/truststore.p12"/>
+    <Content ignore="false" zipEntry="autoEnroll.pref"/>
+  </Contents>
+</MissionPackageManifest>
